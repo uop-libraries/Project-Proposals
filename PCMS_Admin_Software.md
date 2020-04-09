@@ -1,5 +1,5 @@
 # Pacific Community Music School Admin Software
-## Status: Pending
+## Status: Approved
 A software that will allow administrators/faculty to track:
 - ability to receive online applications from new students and extract the data
 - view availabilities given by the teacher on a calendar and to compare with the availability given by a new student
